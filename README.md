@@ -1,7 +1,7 @@
 # python_typing_game
 
-Simple python typing game, has a list of sentences that are randopmly chosen, then user must type out sentence
-time and accuracy are counted
+Simple python typing game, has a list of sentences that are randomly chosen, then user must type out sentence
+time and accuracy are measured
 
 ## Dependecies
 ```
